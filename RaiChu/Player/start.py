@@ -35,9 +35,9 @@ async def start(_, message: Message):
         await message.reply_text(
         f"""**I ᴀᴍ KGF VIBER   
 ʙᴏᴛ ʜᴀɴᴅʟᴇ ʙʏ [HOMO SAPIENS](@dark_summoner)
-Thanks to add me 😇** 
-
-        """,
+Thanks to add me 😇**
+     
+       """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
